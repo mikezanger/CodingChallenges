@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d4a1500-8fed-4e2f-817b-3285076a4ade" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_1Challenge/AreaOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_2_Challenge/Week_2_Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_3_Challenge/Week_3_Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_4_Challenge/Week_4_Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_5_Challenge/Week_5_Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_6_Challenge/Week_6_Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_7_Challenge/Week_7_Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week_8_Challenge/AreaOfTriangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="6d4a1500-8fed-4e2f-817b-3285076a4ade" name="Changes" comment="Area of Triangle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +73,29 @@
       <option name="presentableId" value="Default" />
       <updated>1687823181300</updated>
     </task>
+    <task id="LOCAL-00001" summary="Area of Triangle">
+      <created>1689036653917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689036653918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Area of Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Area of Triangle" />
   </component>
 </project>
